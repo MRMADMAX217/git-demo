@@ -1,2 +1,3 @@
 # git-demo
-basic git
+basic git this is my first git usage
+Hello mohan
